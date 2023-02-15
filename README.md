@@ -18,3 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ![hadeth1](https://user-images.githubusercontent.com/108743395/219037402-edf47afc-f24b-4e96-93dd-c0dec3070c39.png)
 ![radio](https://user-images.githubusercontent.com/108743395/219038085-b2c37eae-9ad8-410a-a02f-2d96e17fbfd8.png)
+![sura](https://user-images.githubusercontent.com/108743395/219144077-70759c43-ff3e-4839-afd0-b315ca6df6c6.png)
+![hadeths](https://user-images.githubusercontent.com/108743395/219144151-0037505c-e426-4de0-8107-63841114a37b.png)
